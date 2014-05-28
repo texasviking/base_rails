@@ -24,6 +24,7 @@ Install Steps
 -------------
 1. bundle install
 1. rails s
+1. http://localhost:3000
 
 Creating A Model
 ----------------
