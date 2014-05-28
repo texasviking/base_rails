@@ -10,5 +10,10 @@ Includes
 Install Steps
 -------------
 1. bundle install
-1. rails generate bootstrap:install static
-1. 
+1. rails s
+
+Creating A Model
+----------------
+1. rails g scaffold Post title:string description:text
+1. rake db:migrate
+1. rails g bootstrap:themed Posts
