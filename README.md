@@ -1,6 +1,15 @@
 Base Rails Application
 ======================
 
+Requirements
+------------
+- Homebrew
+  ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+- Rbenv and ruby-build
+  https://github.com/sstephenson/rbenv#homebrew-on-mac-os-x
+- Ruby 2.0.0 p353
+  rbenv install 2.0.0-p353
+
 Includes 
 --------
 - Ruby 2.0.0 p353
